@@ -1,0 +1,17 @@
+.page {
+  background-color: #fa8072;
+  font-family: verdana, sans-serif;
+}
+.third {
+  font-size: 24px;
+}
+#second {
+  background-color: white;
+  color: blue;
+  font-size: 36px;
+}
+#forth {
+  background-color: lightgreen;
+  font-style: 24px;
+  font-weight: bold;
+}
