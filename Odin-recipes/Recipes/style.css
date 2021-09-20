@@ -1,0 +1,32 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.title {
+  font-size: 120px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.lasagnaheaderdisc {
+  background-color: lightblue;
+  margin-right: 1200px;
+}
+.ingititle {
+  background-color: lightblue;
+  margin-right: 1200px;
+}
+.steps {
+  background-color: lightblue;
+  margin-right: 1200px;
+}
+.ingicontent {
+  font-weight: normal;
+}
+.stepscontent {
+  font-weight: normal;
+}
+.stepscontent .imad {
+  color: lightblue;
+}
